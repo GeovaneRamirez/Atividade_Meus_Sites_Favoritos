@@ -19,15 +19,3 @@ Acima de cada imagem, insira o nome do site.
 Atenção:
 
 Fique atento para colocar o link correto das imagens na codificação da página e, caso a opção seja usar as imagens localmente no dispositivo, você deve criar uma pasta  contendo o arquivo HTML da atividade e as devidas imagens. ENVIAR ESSA PASTA COMPACTADA.
-
-### Dicas:
-
-Colocar título da página entre as tags <title> e </title>;
-Usar a tag <h1> para o nome de cada site;
-Colocar as imagens dos sites que você gosta na mesma pasta do arquivo HTML;
-Utilizar a tag <a> para colocar os Links no seu site.
- Opcional:
-
-Você pode colocar também o link nas imagens de cada site.
-
-Deixe a sua página mais completa possível, usando todos os recursos estudados na seção “Mergulhando no Tema” e “Ampliando Horizontes”!
