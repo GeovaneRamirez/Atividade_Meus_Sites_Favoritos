@@ -1,8 +1,6 @@
-# [Aessar página](https://geovaneramirez.github.io/Atividade_Meus_Sites_Favoritos/)
+### [Acessar página online da Atividade](https://geovaneramirez.github.io/Atividade_Meus_Sites_Favoritos/)
 
-# Atividade_Meus_Sites_Favoritos
-
-## Atividade:
+## Descrição da Atividade:
 
 Na Sociedade da Informação e da Comunicação, cada vez mais conectada à internet pelos celulares, computadores e diversos outros dispositivos, é essencial que as empresas divulguem seus produtos e serviços por meio de sistemas integrados à web por permitir maior mobilidade, interação com mídias sociais e uma grande gama de recursos disponíveis.
 
