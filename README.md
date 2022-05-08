@@ -1,4 +1,4 @@
-### [Acessar página online da Atividade](https://geovaneramirez.github.io/Atividade_Meus_Sites_Favoritos/)
+### [Acessar link da Atividade](https://geovaneramirez.github.io/Atividade_Meus_Sites_Favoritos/)
 
 ## Descrição da Atividade:
 
